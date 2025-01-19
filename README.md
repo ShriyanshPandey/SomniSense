@@ -34,6 +34,7 @@ SomniSense is an intelligent dream analyzer chatbot designed to interpret and an
 
 ## Architecture
 
+![Slide1](https://github.com/user-attachments/assets/18605af5-b8c7-4acb-927a-32d700b3e66c)
 
 
 
